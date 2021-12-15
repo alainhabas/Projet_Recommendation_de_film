@@ -1,6 +1,6 @@
 # Application de recommendation de films
 
-lien de l'application https://share.streamlit.io/alainhabas/projet_2_recommendation_de_film/main/main_code.py
+    lien de l'application https://share.streamlit.io/alainhabas/projet_2_recommendation_de_film/main/main_code.py
 
 Cette application, grâce au travail sur la base de données de imdb, permet de fournir des recommendations de films avec un seul film en entrée.
 
