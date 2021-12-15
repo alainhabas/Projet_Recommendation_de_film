@@ -6,5 +6,5 @@ Cette application, grâce au travail sur la base de données de imdb, permet de 
 
 Différentes méthodes ont été utilisé pour équilibrer le poids des paramêtres de façon a avoir une recommendation variée , sur les genres, acteurs, réalisateurs etc. 
 
-Ce projet a été réalisé en 4 semaines dans le cadre de la formation Data Analyst de la Wild School de 2021 par [Adil Allouche],[Axel Simond], et moi même .
+Ce projet a été réalisé en 4 semaines dans le cadre de la formation Data Analyst de la Wild School de 2021 par Adil Allouche, Axel Simond, et moi même .
 
